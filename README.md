@@ -11,4 +11,4 @@ $ swipl ./adventure.pl
 $ start.
 
 ## Game Map
-![Alt Text](image_path)
+![Alt Text](./map.drawio.png)
